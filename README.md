@@ -1,4 +1,4 @@
-# Strategic Insights into Pizza Sales Performance
+# Strategic Insights into Pizza Sales Performance - SQL 
 
 A SQL-based data analysis project exploring pizza order patterns, revenue trends, and customer preferences to generate actionable business insights.
 
